@@ -19,8 +19,6 @@ h1{
     height: 10rem;
     font-size: 5rem;
     text-align: center;
-    /*display: flex;
-    justify-content: center; */
 
 }
 .bottom {
@@ -30,13 +28,6 @@ h1{
     height:5rem;
     cursor: pointer;
     color: rgb(216, 207, 207);
-    /* background: linear-gradient(to right, 
-    transparent 0%, 
-    transparent calc(50% - 0.81px), 
-    black calc(50% - 0.8px), 
-    black calc(50% + 0.8px), 
-    transparent calc(50% + 0.81px), 
-    transparent 100%); */
 }
 
 .left{
